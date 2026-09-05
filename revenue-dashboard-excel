@@ -1,1 +1,38 @@
+# Revenue Dashboard (Excel)
 
+An interactive Excel sales dashboard analyzing global retail sales data, built with PivotTables, PivotCharts, and slicers for dynamic, drill-down analysis.
+
+## Project Overview
+
+This project works with a large raw sales dataset (60,000+ transaction records) and turns it into an interactive, decision-ready revenue dashboard.
+
+**Raw data fields:** Region, SubRegion, Market, Customer, Business Segment, Category, Model, Color, Sales Date, Sales Period, List Price, Unit Price, Order Quantity, Sales Amount.
+
+## What the Dashboard Shows
+
+- **Revenue Share by Region** — pie chart breakdown of sales across global regions
+- **Revenue Trend by Month & Year** — line chart tracking performance over time
+- **Revenue by Year** — bar chart comparing yearly totals
+- **Revenue by Market** — column chart comparing performance across markets
+- **Interactive Dashboard** — a combined dashboard sheet with slicers, allowing real-time filtering by category and other dimensions
+
+## Tools & Skills Used
+
+- Microsoft Excel — PivotTables and PivotCharts
+- Slicers for interactive, real-time filtering
+- Large dataset handling (60,000+ rows)
+- Data visualization: pie charts, line charts, bar/column charts
+- Dashboard design for business decision-making
+
+## Files
+
+- `Revenue_Dashboard.xlsx` — full interactive workbook (Raw Data + 4 chart sheets + combined Dashboard)
+
+## How to Use
+
+1. Open the file in Microsoft Excel (slicers require Excel 2010+).
+2. Go to the **Dashboard** sheet for the combined interactive view.
+3. Use the slicers to filter by category, region, or market and watch all charts update in real time.
+
+---
+*Sample retail dataset used for portfolio/practice purposes.*
